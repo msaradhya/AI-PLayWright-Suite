@@ -1,0 +1,32 @@
+{
+  "name": "pw-ai-hoonuit-suite",
+  "version": "1.0.0",
+  "description": "Playwright AI Hoonuit Test Suite for SIS Integration",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:chrome": "npx playwright test --project=chrome",
+    "test:setup-suite": "npx playwright test --project=integration-setup-suite",
+    "test:validation-suite": "npx playwright test --project=integration-validation-suite",
+    "test:full-suite": "npx playwright test --project=hoonuit-sis-full-suite",
+    "test:headed": "npx playwright test --headed",
+    "test:debug": "npx playwright test --debug",
+    "test:ui": "npx playwright test --ui",
+    "report": "npx playwright show-report reports/html-report",
+    "install:browsers": "npx playwright install"
+  },
+  "devDependencies": {
+    "@playwright/mcp": "^0.0.30",
+    "@playwright/test": "^1.57.0",
+    "@types/config": "^3.3.5",
+    "@types/mssql": "^9.1.8",
+    "@types/node": "^20.19.25",
+    "dotenv": "^16.6.1",
+    "mssql": "^12.1.1",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "config": "^4.1.1",
+    "snowflake-sdk": "^1.9.3",
+    "xlsx": "^0.18.5"
+  }
+}

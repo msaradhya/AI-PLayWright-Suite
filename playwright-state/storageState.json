@@ -1,0 +1,55 @@
+{
+  "cookies": [
+    {
+      "name": "visid_incap_2820292",
+      "value": "7PoO0ML5QFCM9fCdAlIu9eHNKmkAAAAAQUIPAAAAAAC0UGn3ZwWE5+HcJcZoiUuw",
+      "domain": ".hoonuit.com",
+      "path": "/",
+      "expires": 1795880069,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "incap_ses_937_2820292",
+      "value": "hsqJK5v4kxhV9EbGouQADeLNKmkAAAAAu+KusqUCWsvm/yYjps+MNw==",
+      "domain": ".hoonuit.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "nlbi_2820292_2147483392",
+      "value": "Lvn5fQQFSVgQYUGvJr2zWwAAAAAJfbVlmr4glX0mOxyNNyml",
+      "domain": ".hoonuit.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "reese84",
+      "value": "3:wa+QCohrXCCBlA7It5K/aQ==:FsyaJyzTR0Bj+VRtyExGvzz61B3aX//VQ4X15/EcBeRTyeTi6wfq7ZKkJkl/27YLDgk6OdbxNC0m4YcfW47w9F+EPLJwTQD5GVmih8fGhYlCT1sp/Y/7AluyP6hfZoHT8WfowGHcIPvBB8wqhQjDvS6BBK34/EJTal9D1ykTKzubCQPUw+HhqZaeVXj4E12mmawaXpJW5eLPQTW74wLJD+WvRI3EFBqn//5S4nsL1vcAxRExmztQ3qvbOiA6EzUWpjM+tqzfTsguhuk4jZd4pEC36SLAmtii2mEXcm4Jy1PU+BeLPffVPyMoj/dBLQItaPp+CQWWGKmtLljamOm6vQ7AzEeyC4xAP9GrxcI2tLbEDSIV6sGuRILmTj+R3g0j3kAxrYJGiMDGtRF9z4xvYaVASezzlQEb1D7ZkhieJhlJ2an6wbWjuZOUbbdySFtIU2TiF3UDRgPK/29ZC+M9X6vwsiUuUqN0VmPys+xQHBH5X7BpmyC4B4yoOCfnIFa0rSIancYhpkjWxNpRYhQzhw==:vJA7cxcgjLjtnDMWIXrdkKFM8C7SJi2nHZc/iOEwyvc=",
+      "domain": "sisgoldps5mig01.hoonuit.com",
+      "path": "/",
+      "expires": 1767004899.713379,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://sisgoldps5mig01.hoonuit.com",
+      "localStorage": [
+        {
+          "name": "reese84",
+          "value": "{\"token\":\"3:wa+QCohrXCCBlA7It5K/aQ==:FsyaJyzTR0Bj+VRtyExGvzz61B3aX//VQ4X15/EcBeRTyeTi6wfq7ZKkJkl/27YLDgk6OdbxNC0m4YcfW47w9F+EPLJwTQD5GVmih8fGhYlCT1sp/Y/7AluyP6hfZoHT8WfowGHcIPvBB8wqhQjDvS6BBK34/EJTal9D1ykTKzubCQPUw+HhqZaeVXj4E12mmawaXpJW5eLPQTW74wLJD+WvRI3EFBqn//5S4nsL1vcAxRExmztQ3qvbOiA6EzUWpjM+tqzfTsguhuk4jZd4pEC36SLAmtii2mEXcm4Jy1PU+BeLPffVPyMoj/dBLQItaPp+CQWWGKmtLljamOm6vQ7AzEeyC4xAP9GrxcI2tLbEDSIV6sGuRILmTj+R3g0j3kAxrYJGiMDGtRF9z4xvYaVASezzlQEb1D7ZkhieJhlJ2an6wbWjuZOUbbdySFtIU2TiF3UDRgPK/29ZC+M9X6vwsiUuUqN0VmPys+xQHBH5X7BpmyC4B4yoOCfnIFa0rSIancYhpkjWxNpRYhQzhw==:vJA7cxcgjLjtnDMWIXrdkKFM8C7SJi2nHZc/iOEwyvc=\",\"renewTime\":1764413760713,\"renewInSec\":861,\"cookieDomain\":null,\"serverTimestamp\":1764412629}"
+        }
+      ]
+    }
+  ]
+}
